@@ -17,7 +17,7 @@ const SERVICES = [
 ];
 
 const SOCIALS = [
-  { label: "LinkedIn", href: "www.linkedin.com/in/stephen-adeyeye-3b521235b" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/stephen-adeyeye-3b521235b" },
   { label: "GitHub", href: "https://github.com/captaincarl01" },
   { label: "X / Twitter", href: "https://twitter.com" },
   { label: "WhatsApp", href: "https://wa.me" },
